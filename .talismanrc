@@ -5,6 +5,7 @@ fileignoreconfig:
   checksum: 1889f6ef3dd0b540a9b8d82976da78ac5232c43fd61f58ea7bd0d74b55bb4adc
   checksum: f2fb32244b32ddd1a79309111a924516028f9caa5c46853c0a718d5328202044
   checksum: f18d48bf23926f5be473827f11144a5532e64e72bfe980fb934af47822efc4f0
+  checksum: dd61c760bd0a537e25707529c36142477e626e9bee04d84d22a1494e912a4c96
 - filename: setup/azure-vm-template/template.json
   checksum: 9a959339f8021da1036c5c76ff4c9489c8ecde54e1d2ca7787c924ed82ac5d4a
 - filename: setup/vm-install-script/install-script.sh
