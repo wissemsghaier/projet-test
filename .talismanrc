@@ -3,6 +3,7 @@ fileignoreconfig:
   checksum: c6d0ecaae50fbe031baf562ed13b9f608e800c10f8b97a40a3408e557d4d4ce5
 - filename: Jenkinsfile
   checksum: 1889f6ef3dd0b540a9b8d82976da78ac5232c43fd61f58ea7bd0d74b55bb4adc
+  checksum: f2fb32244b32ddd1a79309111a924516028f9caa5c46853c0a718d5328202044
 - filename: setup/azure-vm-template/template.json
   checksum: 9a959339f8021da1036c5c76ff4c9489c8ecde54e1d2ca7787c924ed82ac5d4a
 - filename: setup/vm-install-script/install-script.sh
@@ -11,7 +12,6 @@ fileignoreconfig:
   checksum: 531e424a42c33adddb3611a79392a450e52aa96c6ee305ab217189ed8b7fcb08
 - filename: slack-emojis/deadpool.png
   checksum: 9c510fba214f8e1ab385256c833ba2addae12836d549bc9d7d10d53b98ec2fa5
-- filename: Jenkinsfile
-  checksum: f2fb32244b32ddd1a79309111a924516028f9caa5c46853c0a718d5328202044  
+
 version: ""
 
