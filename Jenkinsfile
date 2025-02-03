@@ -6,6 +6,7 @@ pipeline {
 
         stage('Build') {
             steps {
+                echo "build"
                 echo "🏗️ Construction du projet Java avec Maven..."
                 sh 'mvn clean package -DskipTests'  // Compile et génère le .jar
                 archive 'target/*.jar'
